@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void TestAppload(){
         int i = 1 + 1;
+        int j = i + 2;
+        int k = i + j ;
     }
 }
